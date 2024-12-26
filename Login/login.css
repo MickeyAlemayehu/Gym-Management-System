@@ -1,0 +1,35 @@
+.box{
+    padding-top: 70px;
+    border: solid;
+    background-color: rgba(229, 237, 237, 0.737);
+    text-align: center;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    font-size: 32px;
+}
+#navbar{
+    font-size: 39px;
+    display: inline-block;
+    height: 70px;
+}
+#username{
+    width: 95%;
+    height: 32px;
+
+}
+#password{
+    width: 95%;
+    height: 32px;
+    
+}
+#button{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(48, 143, 238);
+    padding: 10px;
+    color: white;
+}
+body{
+    background-color: rgba(90, 149, 208, 0.589);
+}
